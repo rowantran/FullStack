@@ -28,6 +28,6 @@ if __name__ == "__main__":
     bob.fillcolor("green")
     bob.speed(15)
 
-    draw_triangle(bob, 6, 0, 0)
+    draw_triangle(bob, 4, 0, 0)
 
     window.exitonclick()
